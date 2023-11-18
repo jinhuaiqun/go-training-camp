@@ -1,2 +1,2 @@
 # go-training-camp
-geekbang go junior training camp
+Go初级训练营
